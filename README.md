@@ -7,3 +7,5 @@ The result is a broad view on social trends, which can be very useful in detecti
 
 ![unknown](https://user-images.githubusercontent.com/52950656/196047807-6641bde1-8d60-4a01-ac68-c6e39a6274f6.png) 
 <img width="448" alt="Screenshot 2022-10-16 at 17 51 48" src="https://user-images.githubusercontent.com/52950656/196047891-75860a2b-dbd5-4c5b-9225-1da5fa4b5b6b.png">
+
+Co-work with James Thomson, Jo Barnes, Lito (Pablo Perez), Zephyr Serret Verbist
